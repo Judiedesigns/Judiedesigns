@@ -1,7 +1,8 @@
 <h1 align="start">Hi there, I'm Florence Eze 👋</h1>
 
 <p align="start">
-  I'm a UX Designer transitioning into software engineering — driven by curiosity and creativity. I’ve always been fascinated by how code powers the things we use every day. I’m passionate about solving real-world problems through thoughtful design and innovative thinking.
+  I'm a UX Designer transitioning + frontend builder, driven by curiosity and creativity. I’ve always been fascinated by how code powers the things we use every day. I design and build responsive web experiences with
+ Figma, Framer, React, JavaScript. I’m passionate about solving real-world problems through thoughtful design and innovative thinking.
 </p>
 
 ---
